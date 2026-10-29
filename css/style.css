@@ -688,6 +688,7 @@ section { position: relative; }
 }
 .stat:nth-child(even) { padding-left: 24px; border-left: 1px solid var(--line); }
 .stat-num { font-size: clamp(2.2rem, 3.6vw, 3.4rem); line-height: 1; font-weight: 400; letter-spacing: -.05em; }
+.stat-num-text { font-size: clamp(1.45rem, 2.2vw, 2rem); line-height: 1.15; letter-spacing: -.04em; }
 .stat-num sup { font-size: .38em; color: var(--cyan); letter-spacing: 0; margin-left: 3px; vertical-align: super; }
 .stat-label { font-size: 11px; letter-spacing: .04em; color: var(--muted-2); line-height: 1.5; }
 .orb { position: absolute; border-radius: 50%; filter: blur(90px); pointer-events: none; opacity: .5; }
