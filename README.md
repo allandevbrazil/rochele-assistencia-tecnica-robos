@@ -276,7 +276,7 @@ Sorocaba – SP · CEP 18103-678
 
 ## 👨‍💻 Créditos
 
-**Design & desenvolvimento:** [SELEGA](https://selega.com.br)  
+**Design & desenvolvimento:** [SELEGA](https://allandevbrazil.github.io/allandevbrazil_portfolio/)  
 **Fotografia e registros de bancada:** acervo Rochelle Assistência Técnica  
 **Filme AI:** frames gerados a partir de clipes produzidos para o projeto
 
